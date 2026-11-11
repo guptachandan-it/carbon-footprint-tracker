@@ -1,1 +1,1 @@
-# idealab
+# carbon-footprint-tracker
