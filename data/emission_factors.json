@@ -1,0 +1,12 @@
+{
+  "electricity": {"kg_co2e_per_kwh": 0.7},
+  "transport": {
+    "petrol_car": {"label": "Petrol Car", "kg_co2e_per_km": 0.18},
+    "diesel_car": {"label": "Diesel Car", "kg_co2e_per_km": 0.17},
+    "motorcycle": {"label": "Motorcycle", "kg_co2e_per_km": 0.10},
+    "bus": {"label": "Bus", "kg_co2e_per_km": 0.08},
+    "train": {"label": "Train", "kg_co2e_per_km": 0.04},
+    "other": {"label": "Other", "kg_co2e_per_km": 0.18}
+  },
+  "waste": {"kg_co2e_per_kg": 0.5}
+}
